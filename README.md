@@ -88,4 +88,6 @@
 
 ### Решение 3:
 
+[Ссылка на граф](https://github.com/Tsaryapkin00/8-01-hw/network)
+
 ---
