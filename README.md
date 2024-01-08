@@ -65,6 +65,7 @@
 
 ### Решение 2:
 
+[Ссылка на коммит](https://github.com/Tsaryapkin00/8-01-hw/commit/7b3f0213501b1f9d7d43bcebabccde9690513b38)
 
 ---
 
